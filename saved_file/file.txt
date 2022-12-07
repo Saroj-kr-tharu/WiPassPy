@@ -1,0 +1,35 @@
+		 0 SSID  ----> NTFiber_ef0b 		 0 PASSWORDS  ---->  744FRUXF 
+		 1 SSID  ----> attacker 		 1 PASSWORDS  ---->  J0ker1234 
+		 2 SSID  ----> Pashupati 		 2 PASSWORDS  ---->  Pashupati@Saroj 
+		 3 SSID  ----> sarojch_fklpr 		 3 PASSWORDS  ---->  Joker@123isback 
+		 4 SSID  ----> Himany12 		 4 PASSWORDS  ---->  9815576563 
+		 5 SSID  ----> nobody  2 		 5 PASSWORDS  ---->  00001111 
+		 6 SSID  ----> lamxi shrestha 		 6 PASSWORDS  ---->  agni8086 
+		 7 SSID  ----> Laxmi@SUBISU 		 7 PASSWORDS  ---->  9816588209 
+		 8 SSID  ----> PRAVESH@ 		 8 PASSWORDS  ---->  PRAVESH@1 
+		 9 SSID  ----> nobody  		 9 PASSWORDS  ----> NO PASSWORD 
+		 10 SSID  ----> omprakash 		 10 PASSWORDS  ---->  omprakash123 
+		 11 SSID  ----> PRAVESH@WIFI 		 11 PASSWORDS  ---->  PRAVESH@1 
+		 12 SSID  ----> Challenge 		 12 PASSWORDS  ---->  joker1234 
+		 13 SSID  ----> saroj123_fklpr 2 		 13 PASSWORDS  ---->  S@roj123@ 
+		 14 SSID  ----> Amit_FiberNet 		 14 PASSWORDS  ---->  9866722597 
+		 15 SSID  ----> vivo 1806 		 15 PASSWORDS  ---->  12345678 
+		 16 SSID  ----> saroj123_fklpr 		 16 PASSWORDS  ---->  Saroj0123@ 
+		 17 SSID  ----> saroj 2 		 17 PASSWORDS  ---->  joker01234 
+		 18 SSID  ----> saroj 		 18 PASSWORDS  ---->  joker01234 
+		 19 SSID  ----> pwned 		 19 PASSWORDS  ---->  deauther 
+		 20 SSID  ----> joker 		 20 PASSWORDS  ---->  12345saroj 
+		 21 SSID  ----> challenge  		 21 PASSWORDS  ---->  noobra1234 
+		 22 SSID  ----> Winner 		 22 PASSWORDS  ---->  Fightwithme 
+		 23 SSID  ----> Steong 		 23 PASSWORDS  ---->  J0ker1234 
+		 24 SSID  ----> S2roj 		 24 PASSWORDS  ---->  NOOBDI123 
+		 25 SSID  ----> Redmi Note 8 		 25 PASSWORDS  ---->  12345678 
+		 26 SSID  ----> Redmi 9A 		 26 PASSWORDS  ---->  prins@hero 
+		 27 SSID  ----> Redmi 		 27 PASSWORDS  ---->  34567891 
+		 28 SSID  ----> Joker 		 28 PASSWORDS  ---->  12345saroj 
+		 29 SSID  ----> Easy_piggy 		 29 PASSWORDS  ---->  abcdefgh 
+		 30 SSID  ----> Easy 		 30 PASSWORDS  ---->  abcdefgh 
+		 31 SSID  ----> Death_crush 		 31 PASSWORDS  ---->  143anush 
+		 32 SSID  ----> Dangerous 		 32 PASSWORDS  ---->  Pa@ssW0rd 
+		 33 SSID  ----> Challenges 		 33 PASSWORDS  ---->  joker1234 
+		 34 SSID  ----> Accepted 		 34 PASSWORDS  ---->  abcd1234 

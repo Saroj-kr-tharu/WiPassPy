@@ -1,6 +1,6 @@
 
 # 📶📡💻 Wifi Password
-#### Welcome to Wifi Password Getter Project, Console Based Application Develop in Python.
+#### Welcome to WiPassPy Project, Console Based Application Develop in Python To Exact Password For Saved Network in Local Machine.
 
 
 ## 🌐 Technologies Used
@@ -21,7 +21,7 @@ Follow the steps to set up and run the project on your local machine
 
   ### 1. Clone the Repository
   ```bash
-https://github.com/Saroj-kr-tharu/Wifi-Password-Getter---Python.git
+git clone https://github.com/Saroj-kr-tharu/WiPassPy.git
  ```
  ### 3. Run the Application
   ```bash
